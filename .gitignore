@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+
+frontend/node_modules/
+frontend/dist/
+
+backend/uploads/submissions/
+backend/.env
+backend/bin/
+
